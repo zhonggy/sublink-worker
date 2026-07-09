@@ -61,7 +61,7 @@ export const Form = (props) => {
             </span>
           }
           model="input"
-          rows={5}
+          rows={10}
           placeholder={t('urlPlaceholder')}
           required
           labelActionsWrapperClass="flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-200"
